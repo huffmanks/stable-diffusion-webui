@@ -15,8 +15,7 @@ USER_API_URL = "http://127.0.0.1:5001/api/users?count=100"
 
 # Define the new model checkpoint you want to use
 NEW_CHECKPOINT = "deliberateCyber_v50"
-# NEW_CHECKPOINT = "realismEngineSDXL_v30VAE"
-# NEW_CHECKPOINT = "Realistic_Vision_V5.1"
+# NEW_CHECKPOINT = "cyberrealisticPony_catalystV30"
 
 # Function to switch model checkpoint
 def switch_checkpoint(model_name):
