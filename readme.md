@@ -1,3 +1,9 @@
+## Clone repo
+
+```sh
+git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
+```
+
 ## Create venv
 
 ```sh
